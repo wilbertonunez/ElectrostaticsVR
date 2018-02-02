@@ -4,6 +4,8 @@ This is my first Unity3D VR project. It displays the electric field due to one o
 
 When loaded into a mobile device, the application shows a room with one red sphere that represents a positive point charge floating in space. There are blue arrows showing the direction of the electric field at a certain point, and also hinting at the magnitude of the electric field as the arrows change sizes. The user may gaze at the charged sphere, click on it and flip its value from positive to negative or viceversa. The user can also point at any floor tile and click on it to create another charge right above that tile. We can increase the height of the charged sphere by clicking on the same tile again, as many times as necessary.
 
+<img src="/Pictures/Dipole.PNG" alt="Pattern" style="width:50px;height:30px"/>
+
 ### Main custom assets
 
 The main assets we have created in this project are:
