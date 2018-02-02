@@ -38,6 +38,8 @@ The main assets we have created in this project are:
 
 ### Scenes
 
+<img src="/Pictures/MoreCharges.PNG" alt="Pattern" style="width:50px;height:30px"/>
+
 Right now there is only one scene in the Unity project. Several other scenes have existed before, but they have been deleted and all of their features have been combined into one: "Dipole Scene (interactive)". The scene contains:
 
 1. GvrEventSystem: It holds the GvrPointerInputModule class, necessary to make any Google VR interaction work. No changes should be made to this object.(https://developers.google.com/vr/unity/reference/class/gvr-pointer-input-module#class_gvr_pointer_input_module)
